@@ -1,4 +1,4 @@
-# 2-Year---10-Year-Bond-Yield-Rate-SpreadIndex
+# 2 Year - 10 Year Bond Yield Rate SpreadIndex
 
 ## 1. What is the Spread?
 
