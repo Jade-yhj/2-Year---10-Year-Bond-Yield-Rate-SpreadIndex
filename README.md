@@ -15,7 +15,7 @@ Long-term Treasury yields are often used to examine the country's economic infla
 
 When the spread rises, the US economic risk increases, which is suitable for investing in bonds.  When the spread declines, the US economic risk decreases, which is suitable for investing in stocks.  
 
-When the spread turns negative (referred to as the Inverted yield curve), the US economy will reach its peak, revealing that in the next 1 to 2 years, US stocks may have a significant decline. For example, in 1990,2000 and 2008
+When the spread turns negative (referred to as the Inverted yield curve), the US economy will reach its peak, revealing that in the next 1 to 2 years, US stocks may have a significant decline, for example, in 1990,2000 and 2008.
 
 
 ## 3. Tradingview Pine Script
